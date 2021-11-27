@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  background-color: lavenderblush;
+  font-weight: normal;
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: brown;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: rgb(87, 28, 43);
+}
+
+.mee {
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: -4px -4px 14px lightcoral;
+}
+.info p {
+    color: rgb(163, 156, 156);
+    margin: o;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    
+}
+
+.info {
+    margin-bottom: 50px;
+}
+
+.parent {
+    max-width: 800px;
+    margin: auto;
+}
+
+/* .social {
+    background: rgb(201, 233, 113);
+    border:  5px solid rgb(245, 205, 76);
+    padding: 8px 8px 8px 8px;
+    margin: 10px 0px;
+}  */
+
+.bgy {
+background: rgba(255, 255, 163, 0.781);
+}
+.bgb {
+background: rgba(159, 159, 252, 0.747);
+}
+.bgp {
+background: rgba(255, 169, 255, 0.781);
+}
+
+
+.div {
+    margin-bottom: 20px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
+
+.div h2 {
+    margin: 10px 0px;
+}
+
+.table {
+    width: 100%;
+}
+
+.table td {
+    padding-bottom: 8px;
+}
+
+.favsites {
+    list-style: square;
+    padding: 0px;
+}
+
+.favsites li {
+    margin-bottom: 5px;
+    border-bottom: 1px solid rgb(87, 28, 43);
+    padding-bottom: 5px;
+}
+
+.contact h2 {
+    text-align: center;
+}
